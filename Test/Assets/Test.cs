@@ -13,6 +13,6 @@ public class Test : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.LogError("Update is been called every update");
+        
     }
 }
